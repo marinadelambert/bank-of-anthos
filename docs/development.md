@@ -30,7 +30,7 @@ required tools built-in.
 
 ### Installing JDK 21 and Maven 3.9
 
-If your package manager doesn't allow you to install JDK 17 or Maven 3.8 (for example, if you're on an older version of Ubuntu), you can follow the following instructions.
+If your package manager doesn't allow you to install JDK 21 or Maven 3.9 (for example, if you're on an older version of Ubuntu), you can follow the following instructions.
 
 Find the [latest release of JDK 21](https://jdk.java.net/21/) and extract it to the `/opt` directory:
 ```
